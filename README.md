@@ -1,2 +1,2 @@
 # DZpoVT
-Ссылка на сайт: 
+Ссылка на сайт: https://goddentalk.github.io/DZpoVT/
